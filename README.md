@@ -1,6 +1,7 @@
 # LearnAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.2.
+May contain same code learned from Udemy
 
 ## Development server
 
